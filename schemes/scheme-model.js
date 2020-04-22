@@ -1,4 +1,4 @@
-const db = require('../data/schemes.db3');
+const db = require('../data/dbConfig.js');
 
 module.exports = {
     find,
